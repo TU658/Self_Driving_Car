@@ -14,6 +14,6 @@ Traffic Light Classifier
 
 Route search ( A* algorithm )
 
-![](./result_images/route_search/start_8_goal_24.png)
+![start 8 -> goal 24](./result_images/route_search/start_8_goal_24.png)
 
-![](./result_images/route_search/start_38_goal_11.png)
+![start 38 -> goal 11](./result_images/route_search/start_38_goal_11.png)
